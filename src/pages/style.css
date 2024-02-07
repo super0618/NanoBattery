@@ -1,0 +1,10 @@
+.container {
+  position: fixed;
+  top: 100;
+  left: 0;
+  z-index: 2;
+  /* Other styles for the container element */
+  mask-image: url(../assets/images/03Media.svg);
+  mask-position: center;
+  mask-size: cover;
+}
